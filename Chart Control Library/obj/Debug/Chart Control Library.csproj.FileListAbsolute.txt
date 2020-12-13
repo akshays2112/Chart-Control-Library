@@ -1,0 +1,4 @@
+C:\Users\akshays\Documents\Visual Studio 2012\Projects\Example2\Chart Control Library\bin\Debug\Chart Control Library.dll
+C:\Users\akshays\Documents\Visual Studio 2012\Projects\Example2\Chart Control Library\bin\Debug\Chart Control Library.pdb
+C:\Users\akshays\Documents\Visual Studio 2012\Projects\Example2\Chart Control Library\obj\Debug\Chart Control Library.dll
+C:\Users\akshays\Documents\Visual Studio 2012\Projects\Example2\Chart Control Library\obj\Debug\Chart Control Library.pdb
